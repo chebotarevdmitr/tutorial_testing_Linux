@@ -1,0 +1,4 @@
+$ command -v tmux
+ctrl + B   Shift+5  ctrl + B   Shift+" 
+exit  ctrl + B + X -> exit
+
